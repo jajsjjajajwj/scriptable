@@ -3,15 +3,15 @@
 // icon-color: deep-gray; icon-glyph: magic;
 
 // Change these to your usernames!
-const user = "evan";
+const user = "Raymond";
 
 // API PARAMETERS !important
 // WEATHER_API_KEY, you need an Open Weather API Key
 // You can get one for free at: https://home.openweathermap.org/api_keys (account needed).
 const WEATHER_API_KEY = "";
 const DEFAULT_LOCATION = {
-  latitude: 0,
-  longitude: 0
+  latitude: 180,
+  longitude: 33,
 };
 const TAUTULLI_API_BASE = "";
 const TAUTULLI_API_KEY = "";
